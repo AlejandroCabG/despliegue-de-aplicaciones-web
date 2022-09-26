@@ -1,5 +1,5 @@
 ## Ejercicio 1
-Repositorio creado en GitHub => 
+Repositorio creado en GitHub => https://github.com/AlejandroCabG/despliegue-de-aplicaciones-web.git
 
 ## Ejercicio 2
 Véase imágen Ex_02.PNG.
