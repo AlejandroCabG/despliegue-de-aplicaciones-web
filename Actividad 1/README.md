@@ -6,7 +6,7 @@ Véase imágen Ex_02.PNG.
 
 ## Ejercicio 3
 La estructura de solicitud está formada por un *_método_*, que indica que tipo de solicitud es (pueden ser GET, POST O HEAD); la *_ruta_* que forma parte de la url que viene después del dominio /moodel/course/view.php?id=29 HTTP/1.1 y finalmente el protocolo, que en este caso es HTTP 1.1.
-El resto de dartos que se envían son el host, la lengua y el encode (gzip) junto con el anvegador empleado.
+El resto de datos que se envían son el host, la lengua y el encode (gzip) junto con el anvegador empleado.
 Véase imágenes Ex_03.PNG y Ex_031.PNG
 
 ## Ejercicio 4 
